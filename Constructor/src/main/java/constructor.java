@@ -10,7 +10,6 @@ public class constructor {
     //Non Returnable Constructor
     public void NonReturnable() {
         System.out.println("Non Returnable Constructor Called");
-
     }
     //Returnable Constructor
     public String Returnable() {
